@@ -1,7 +1,7 @@
 ### Kengoon
 [![Kengoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=kengoon&show_icons=true&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=page.id)
 <!--
 **kengoon/kengoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
