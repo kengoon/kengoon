@@ -1,7 +1,7 @@
 ### Kengoon
-[![Kengoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=kengoon&show_icons=true&theme=algolia&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Kengoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=kengoon&show_icons=true&theme=algolia&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kengoon&theme=default)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kengoon&theme=default) -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kengoon&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
